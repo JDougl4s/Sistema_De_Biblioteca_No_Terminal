@@ -32,14 +32,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado inicial em Java, com
 - Devolver livro
 - Encerrar o sistema
 
-## Estrutura do projeto
+## Autor
 
-📦 projeto
-┣ 📂 app
-┃ ┗ 📜 Main.java
-┣ 📂 model
-┃ ┗ 📜 Livro.java
----
-- **Main.java** → Responsável pelo controle do sistema (menu e fluxo)
-- **Livro.java** → Classe que representa o objeto Livro e suas ações
----
+Desenvolvido por **João Douglas**  
+Estudante de desenvolvimento back-end com foco em Java, em constante evolução e prática dos conceitos fundamentais da programação.
